@@ -1,3 +1,18 @@
 [submodule "Java-oblig-6"]
 	path = Java-oblig-6
 	url = https://github.com/Tobhal/Java-oblig-6.git
+[submodule "Java-oblig-5"]
+	path = Java-oblig-5
+	url = https://github.com/Tobhal/Java-oblig-5.git
+[submodule "Java-oblig-4"]
+	path = Java-oblig-4
+	url = https://github.com/Tobhal/Java-oblig-4.git
+[submodule "Java-oblig-3"]
+	path = Java-oblig-3
+	url = https://github.com/Tobhal/Java-oblig-3.git
+[submodule "Java-oblig-2"]
+	path = Java-oblig-2
+	url = https://github.com/Tobhal/Java-oblig-2.git
+[submodule "Java-oblig-1"]
+	path = Java-oblig-1
+	url = https://github.com/Tobhal/Java-oblig-1.git
